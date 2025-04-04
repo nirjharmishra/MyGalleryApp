@@ -17,7 +17,7 @@ A modern web application for managing and showcasing personal photo collections.
 - Cloudinary (for image storage)
 
 ## Getting Started
-Instructions for setting up and running the project will be added soon.
+Instructions for setting up and running the project is added in build-instructions.md file.
 
 ## License
 MIT License
